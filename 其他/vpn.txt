@@ -1,0 +1,12 @@
+https://github.com/hwdsl2/setup-ipsec-vpn/blob/master/docs/ikev2-howto-zh.md
+wget https://get.vpnsetup.net -O vpn.sh && sudo sh vpn.sh
+
+sudo ikev2.sh
+
+win安装
+https://github.com/hwdsl2/vpn-extras/releases/latest/download/ikev2_config_import.cmd
+
+卸载
+wget https://get.vpnsetup.net/unst -O unst.sh && sudo bash unst.sh
+
+
